@@ -16,7 +16,7 @@
     <ol>
         <li><strong>Clone the Repository</strong>: Clone this repository to your local machine using the following command:<br>
             <code>git clone https://github.com/youutubee/handsign-detection.git</code></li>
-        <li><strong>Run the train.py file</strong>strong></li>
+        <li><strong>Run the train.py file</strong>: After it is successfully run a model.p file will appear in the project directory</li>
         <li><strong>Run inference.py</strong>: Utilize the provided example scripts to observe the model's performance in real-time.</li>
     </ol>
     <h2>Contributions</h2>
