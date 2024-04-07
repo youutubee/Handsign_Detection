@@ -15,11 +15,9 @@
     <h2>Getting Started</h2>
     <ol>
         <li><strong>Clone the Repository</strong>: Clone this repository to your local machine using the following command:<br>
-            <code>git clone https://github.com/your-username/handsign-detection.git</code></li>
-        <li><strong>Install Dependencies</strong>: Install the required dependencies listed in the <code>requirements.txt</code> file. You can use pip for this:<br>
-            <code>pip install -r requirements.txt</code></li>
-        <li><strong>Run Examples</strong>: Utilize the provided example scripts to observe the model's performance in real-time. You can find these in the <code>examples/</code> directory.</li>
-        <li><strong>Integration</strong>: Explore integration options to incorporate the detection system into your projects. Import the relevant modules and functions to enable intuitive communication through ASL hand signs.</li>
+            <code>git clone https://github.com/youutubee/handsign-detection.git</code></li>
+        <li><strong>Run the train.py file</strong>strong></li>
+        <li><strong>Run inference.py</strong>: Utilize the provided example scripts to observe the model's performance in real-time.</li>
     </ol>
     <h2>Contributions</h2>
     <p>Contributions to this project are highly welcome! Whether you want to optimize the algorithm, expand the vocabulary of recognized hand signs and words, or improve documentation, your contributions are invaluable in advancing this technology.</p>
